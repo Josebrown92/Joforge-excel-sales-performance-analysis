@@ -7,6 +7,8 @@ This project focuses on analyzing retail sales data using Microsoft Excel to unc
 The analysis transforms raw transaction records into meaningful information through Excel formulas, PivotTables, KPI cards, and interactive charts. The final dashboard provides an overview of revenue, profit, profit margin, order volume, monthly trends, regional performance, and product-category sales.
 
 This project demonstrates practical skills in data analysis, spreadsheet calculations, data visualization, and business reporting.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f8691657-d424-47c7-8a37-2c1c99ee8ab8" />
+
 
 ## Business Objectives
 
